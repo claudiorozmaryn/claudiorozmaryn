@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hola, soy Claudio Iván Rozmaryn 👋
 
-<!--
-**claudiorozmaryn/claudiorozmaryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Desarrollo Web Full Stack.
 
-Here are some ideas to get you started:
+Actualmente estoy formándome en desarrollo web y construyendo proyectos para mejorar mis habilidades y ampliar mi portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+
+## 🚀 Actualmente
+
+- 🎓 Estudiando Programación Web Full Stack
+- 💻 Desarrollando proyectos web
+- 🌱 Profundizando en JavaScript y Backend
+- 📚 Ampliando mis conocimientos en programación y tecnología
+
