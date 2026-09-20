@@ -1,4 +1,4 @@
-# Hola, soy Claudio Iván Rozmaryn 👋
+# Hola, soy Claudio Ivan Rozmaryn 👋
 
 💻 Estudiante de Desarrollo Web Full Stack.
 
